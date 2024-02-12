@@ -186,8 +186,8 @@ body {
 .choose-box {
     position: absolute;
     width: 466px;
-    height: 61%;
-    top: 15%;
+    height: 58%;
+    top: 10%;
     flex-direction: column;
     gap: 80px;
     padding: 160px 0;
